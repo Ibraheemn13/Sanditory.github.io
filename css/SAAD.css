@@ -286,3 +286,7 @@ span, a{
 	background-color: black;
 	box-shadow: -1px 3px 10px 0 rgba(0,0,0,0.6);
 }
+
+html{
+	scroll-behavior: smooth;
+}
