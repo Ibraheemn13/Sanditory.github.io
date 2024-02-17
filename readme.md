@@ -39,9 +39,6 @@ Don't forget to give the project a star! Thanks again!
 ### CONTACT ME
 ![image](https://github.com/Ibraheemn13/Sanditory.github.io/assets/68946009/43364971-41ba-4345-b338-749a673b6033)
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
